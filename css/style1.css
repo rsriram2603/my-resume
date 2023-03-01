@@ -1,0 +1,39 @@
+h1,h4{
+	text-align:center;
+}
+.sri{
+	color:blue;
+}
+section{
+	width:40%; margin:auto;
+}
+.sri1{
+	border:2px inset blue;
+}
+#fname{
+	border-radius:20px;
+}
+#Email{
+	width:80%;
+}
+#Phone{
+width:80%
+}
+#topic{
+width:80%
+}
+#preferred{
+width:80%
+}
+
+#Email{
+	border-radius:20px;
+}
+#Phone{
+	border-radius:20px;
+}
+#topic{
+	border-radius:20px;
+}
+
+[
